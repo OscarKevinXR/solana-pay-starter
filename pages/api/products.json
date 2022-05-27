@@ -7,5 +7,14 @@
     "image_url": "https://i.imgur.com/rVD8bjt.png",
     "filename": "Emojis.zip",
     "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "Happy New Year!",
+    "price": "0.01",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "description": "Happy New Year!",
+    "filename": "HappyCNNewYear-pfp.png",
+    "hash": "QmeNSNeg7g9THUFVWN85RTHotpaQhyZa6Kw6jN3a94dEhi"
   }
 ]
